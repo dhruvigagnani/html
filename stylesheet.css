@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 192, 203);
+    padding: 20px;
+    border: 10px solid black;
+    margin: auto;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 31% 69% 100% 0% / 100% 0% 100% 0%  ;
+    
+    
+}
+.box2{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(112, 17, 33);
+    padding: 20px;
+    border: 10px solid rgb(17, 161, 130);
+    margin: auto;
+    margin-top: 20px;
+    border-style: dashed;
+
+}
+.box3{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(192, 255, 192);
+    padding: 20px;
+    border: 10px solid rgb(192, 37, 114);
+    margin: auto;
+    margin-top: 20px;
+    border-style: dotted;
+
+}
+.box4{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(186, 216, 18);
+    padding: 20px;
+    border: 10px solid rgb(77, 21, 21);
+    margin: auto;
+    margin-top: 20px;
+    border-style: double;
+
+}
+.box5{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(148, 163, 212);
+    padding: 20px;
+    border: 10px solid rgb(184, 189, 139);
+    margin: auto;
+    margin-top: 20px;
+    border-style: groove;
+
+}
+.box6{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(14, 185, 120);
+    padding: 20px;
+    border: 10px solid rgb(100, 19, 57);
+    margin: auto;
+    margin-top: 20px;
+    border-style: hidden;
+
+}
+.box7{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(21, 187, 187);
+    padding: 20px;
+    border: 10px solid rgb(182, 4, 206);
+    margin: auto;
+    margin-top: 20px;
+    border-style: inherit
+
+}
+.box8{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(209, 96, 115);
+    padding: 20px;
+    border: 10px solid rgb(11, 9, 99);
+    margin: auto;
+    margin-top: 20px;
+    border-style: inset
+
+}
+.box9{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(146, 226, 150);
+    padding: 20px;
+    border: 10px solid rgb(93, 3, 105);
+    margin: auto;
+    margin-top: 20px;
+    border-style: none;
+
+}
+.box10{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(223, 199, 120);
+    padding: 20px;
+    border: 10px solid rgb(69, 7, 121);
+    margin: auto;
+    margin-top: 20px;
+    border-style: outset;
+
+}
+.box11{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(240, 149, 240);
+    padding: 20px;
+    border: 10px solid rgb(171, 39, 223);
+    margin: auto;
+    margin-top: 20px;
+    border-style: ridge;
+
+}
+.box12{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(226, 35, 67);
+    padding: 20px;
+    border: 10px solid rgb(226, 132, 132);
+    margin: auto;
+    margin-top: 20px;
+    border-style: unset;
+
+}
+.box13{
+    height: 150px;
+    width: 150px;
+    background-image: url(./austria-6934186_960_720.jpg);
+    padding: 20px;
+    border: 10px solid rgb(22, 177, 216);
+    margin: auto;
+    margin-top: 20px;
+
+}
+body{
+    font-family: 'Dancing Script';
+
+}
